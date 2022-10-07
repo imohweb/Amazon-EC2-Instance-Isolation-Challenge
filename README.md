@@ -1,4 +1,4 @@
-# Amazon EC2 Instance Isolation Challenge
+# Amazon EC2 Instance Isolation Challenge - Rescue a Compromised EC2 Instance Incident Run Book
 
 ## The Challenge Mission
 
@@ -9,7 +9,7 @@ The company's cloud resources have been targeted by malicious actors in the past
 
 As a part of your initial training, you have received instructions on what to do if a compromise is detected. <br> Below is the company's run book for dealing with a suspected compromised Amazon EC2 instance:
 
-# Compromised Instance Incident Run Book
+## Tasks
 
 Tag any resources you create with the key **IncidentStatus** and the value **Isolated**.
 
