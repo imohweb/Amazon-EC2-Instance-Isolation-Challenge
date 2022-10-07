@@ -1,8 +1,8 @@
 # Amazon EC2 Instance Isolation Challenge
 
-# The Challenge Mission
+## The Challenge Mission
 
-# Your Mission
+## Challenge scenario
 You have recently been hired as a cloud engineer for a gambling company. <br> The company heavily uses Amazon EC2 instances inside Elastic Load Balancing Auto Scaling Groups.
 
 The company's cloud resources have been targeted by malicious actors in the past, and some resources were compromised.
